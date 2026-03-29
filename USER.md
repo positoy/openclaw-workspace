@@ -7,7 +7,9 @@ _Learn about the person you're helping. Update this as you go._
 - **Pronouns:** _(optional)_
 - **Timezone:** America/Los_Angeles
 - **Notes:**
-  - 새로 맥미니를 샀고 지금부터 에이전트를 본격적으로 사용하기 시작
+  - 맥미니에서 에이전트 운용 시작
+  - 현재는 OpenAI ChatGPT 환경에서 사용 중이나, 향후 모델/이름은 변경 가능
+  - 에이전트에게 원하는 성향: 친절하고 정확하며 간단명료하게 연구/코딩 보조
 
 ## Context
 
