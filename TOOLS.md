@@ -12,6 +12,11 @@ Things like:
 - Speaker/room names
 - Device nicknames
 - Anything environment-specific
+- Local project path conventions
+
+### Path conventions
+
+- When Andy says “github project”, it means `/Users/positoy/github`
 
 ## Examples
 
