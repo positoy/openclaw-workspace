@@ -17,6 +17,7 @@ Things like:
 ### Path conventions
 
 - When Andy says “github project”, it means `/Users/positoy/github`
+- All actual projects live under `/Users/positoy/github`; treat that as the default project root unless Andy says otherwise
 
 ## Examples
 
